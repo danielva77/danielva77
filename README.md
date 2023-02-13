@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielva77&label=Profile%20views&color=0e75b6&style=flat" alt="danielva77" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Mi portafolio**
-
-- 🌱 Actualmente estoy aprendiendo **Typescript e inglés**
-
-- 👯 Estoy buscando colaborar en **The Gaming Farm**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/danielva77](https://github.com/danielva77)
 
